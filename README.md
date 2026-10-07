@@ -1,4 +1,4 @@
-# Fleet Books: car rental accounting (MERN)
+# Fleet Books: car rental accounting (MERN) version 2
 
 Only journal entries are stored. The ledger, trial balances and financial statements are computed from them,
 and every report can be downloaded as a PDF.
